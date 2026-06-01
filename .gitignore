@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+# database
+movies.db
+
+# datasets
+*.tsv.gz
